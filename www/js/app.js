@@ -46,8 +46,7 @@
   $scope.openLink = function(url){
     window.open(url,'_blank');
   };
-  
-
+  // minuto 5:18
     });
 
 app.run(function($ionicPlatform) {
